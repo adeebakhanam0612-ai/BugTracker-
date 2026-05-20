@@ -7,14 +7,12 @@ developers, and monitor developer productivity in real time using a
 fully functional web application with database integration.
 
 ---
-
 ## 👩‍💻 Team Members
-| Name | Role |
-|---|---|
-| Sara | Database & Backend Lead |
-| Adeeba | Frontend & Interface Lead |
-| Juvairiya | Documentation & Documentary Lead |
-
+| Name | Role | Responsibilities |
+|---|---|---|
+| Sara | Database & Backend Lead | Database Design, ER Diagram, SQL Queries, Schema Creation, Data Management & Backend Logic |
+| Adeeba | Frontend & Full Stack Lead | UI/UX Design, Frontend Development, Flask Integration, Database Connection, GitHub Management & Project Coordination |
+| Juvairiya | Documentation & Research Lead | Project Documentation, Abstract & Introduction, DFD & UML Diagrams, PPT Preparation, Documentary Video & README Management |
 ---
 
 ## 🚀 Features
